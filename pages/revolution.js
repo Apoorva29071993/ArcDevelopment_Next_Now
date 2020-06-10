@@ -359,7 +359,6 @@ export default function Revolution(props) {
         <Grid item container justify={matchesMD ? "center" : "flex-end"} lg>
           <Lottie
             options={defaultOptions}
-            isStopped={true}
             style={{ maxWidth: "40em", margin: 0 }}
           />
         </Grid>
