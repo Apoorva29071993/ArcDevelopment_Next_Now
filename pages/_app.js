@@ -10,7 +10,7 @@ import Fonts from "../src/ui/Fonts";
 
 import { LazyLoadComponent } from "react-lazy-load-image-component";
 
-ReactGA.initialize("UA-154916062-1");
+ReactGA.initialize("UA-169007942-1");
 
 export default class MyApp extends App {
   constructor(props) {

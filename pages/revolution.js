@@ -31,7 +31,7 @@ export default function Revolution(props) {
 
   const defaultOptions = {
     loop: true,
-    autoplay: false,
+    autoplay: true,
     animationData: technologyAnimation,
     rendererSettings: {
       preserveAspectRatio: "xMidYMid slice"

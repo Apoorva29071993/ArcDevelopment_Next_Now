@@ -39,7 +39,7 @@ export default function MobileApps(props) {
 
   const defaultOptions = {
     loop: true,
-    autoplay: false,
+    autoplay: true,
     animationData: integrationAnimation,
     rendererSettings: {
       preserveAspectRatio: "xMidYMid slice"
